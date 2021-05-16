@@ -1,0 +1,50 @@
+/*table{
+    width: 70%;
+    background-color: #413c69;;
+    color: white;
+   margin: auto;
+}*/
+
+.description{
+    width: 70%;
+    margin: 20px auto;
+
+}
+
+.table{
+    background-color: #6e7c7c;
+    text-align:center;
+    color: white;
+    border-radius: 2%;
+    --bs-table-striped-color: white;
+
+}
+
+.select{
+    margin: 20px auto;
+    text-align:center;
+
+}
+
+h3{
+    margin-bottom: 0;
+    font-size: 1.1rem;
+}
+p{
+    margin-bottom: 0.25rem;
+}
+/*tr{
+    text-align: center;
+    padding: 0;
+    margin-bottom: 0;
+}
+td{
+    width: 20%;
+    height: 180px;
+}
+
+.container-td{
+    height: 100%;
+    padding-top:0;
+}^/
+
